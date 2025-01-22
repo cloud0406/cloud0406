@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=JEONGHO's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cloud0406)](https://solved.ac/cloud0406)
     
 </div>
     <div style="text-align: left;"> 
